@@ -4,7 +4,7 @@ NovaStorms Navigator is an interactive dashboard. It compares cities around the 
 
 ## Release
 
-This page is the release at tag `ver2-2026-11-20`. It comes with the Data Report and the executive deck, built from the same numbers.
+This page is the release at tag `ver3-outcome-ii`. It comes with the Data Report and the executive deck, built from the same numbers.
 
 ## Opens offline
 
@@ -12,7 +12,7 @@ The dashboard is one self-contained HTML file. Save it and open it in any modern
 
 ## Where the numbers come from
 
-Every number on the page is read by key from one numbers file, frozen at the release tag. Appendix A of the Data Report lists each key with its value and its source. The data are public, and every judgment call made after a result was seen is listed and marked.
+Every number on the page is read by key from one numbers file, frozen at tag `nq-2026-11-18-eod`; this release changes words, not numbers. Appendix A of the Data Report lists each key with its value and its source. The data are public, and every judgment call made after a result was seen is listed and marked.
 
 ## Team
 
