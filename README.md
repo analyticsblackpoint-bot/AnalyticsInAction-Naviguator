@@ -4,7 +4,7 @@ NovaStorms Navigator is an interactive dashboard. It compares cities around the 
 
 ## Release
 
-This page is the release at tag `ver3-outcome-ii`. It comes with the Data Report and the executive deck, built from the same numbers.
+This page is the release at tag `ver3-final`. It comes with the Data Report and the executive deck, built from the same numbers.
 
 ## Opens offline
 
